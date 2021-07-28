@@ -96,3 +96,4 @@ CRAFTGQL_URL = (url of your craft site with "/api" added to the end) (in my case
     
 - With these configurations, your gatsby site should be able to query data through GraphQL to pull through craft, pulling from your S3 bucket. 
     
+- Contact me with questions at any given step, I am sure there are parts that slipped my mind or do not seem as straightforward: jupatric@umich.edu

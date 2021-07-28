@@ -1,0 +1,5 @@
+{
+    "require": {
+        "craftcms/aws-s3": "^1.2"
+    }
+}
